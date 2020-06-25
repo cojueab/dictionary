@@ -1,0 +1,16 @@
+.navbar {
+  grid-area: header;
+}
+
+.brand{
+    padding: 30px 0;
+    margin: 0 15px;
+}
+
+.bp3-navbar-heading a:hover{
+  text-decoration: none;
+  color: white;
+}
+.bp3-navbar-heading a{
+  color: white;
+}
